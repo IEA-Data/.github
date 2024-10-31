@@ -1,3 +1,7 @@
+### [IEA DATA Discussion Board Here](https://github.com/IEA-Data/IEA_Data_Guidance_Doc/discussions)
+
+- Add explanatory text here
+
 ## Mission:
 
 To facilitate the practice of IEAs through deliberate data management and FAIR (findability, accessibility, interoperability, and reusability) data practices. The team will emphasize identifying, collecting, and where necessary developing and codifying best practices for data stewardship, including metadata, web discovery and access, long-term preservation, and data reuse and reproducibility.
